@@ -50,3 +50,12 @@
     color: #E5E7EB;
     margin-left: auto;
 }
+
+.join-button {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    width: 125px;
+    height: 30px;
+    margin-top: 10px;
+}
