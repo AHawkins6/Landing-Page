@@ -65,4 +65,25 @@
     font-weight: 800;
     color: #1F2937;
     text-align: center;
+    padding: 24px 0px;
+}
+.info-container {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.illustration {
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0px 48px 0px;
+}
+
+.illustration img {
+    width: 200px ;
+    border-radius: 16px;
+}
+
+.text {
+    text-align: center;
+    padding-top: 10px;
 }
