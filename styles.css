@@ -24,9 +24,22 @@
     font-size: 18px;
 }
 
+.hero {
+    display: flex;
+    gap: 50px;
+    padding: 24px 0px ;
+    flex-basis: 100%;
+}
+
+.hero img{
+    max-width: 300px;
+    margin-left: auto;
+    flex-basis: 100%;
+}
+
 .hero-main {
     display: flex;
-    flex: 1;
+    flex-direction: column;
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
