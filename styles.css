@@ -60,10 +60,9 @@
     margin-top: 10px;
 }
 
-.information {
-    display: flex;
+.information-title {
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
-    justify-content: center;
+    text-align: center;
 }
