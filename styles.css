@@ -28,13 +28,12 @@
     display: flex;
     gap: 50px;
     padding: 24px 0px ;
-    flex-basis: 100%;
 }
 
 .hero img{
-    max-width: 300px;
+    width: 300px;
+    height: auto;
     margin-left: auto;
-    flex-basis: 100%;
 }
 
 .hero-main {
