@@ -135,6 +135,11 @@
     color:#E5E7EB
 }
 
+.call-to-action .join-button {
+    border-style: solid;
+    border-color: white;
+}
+
 .footer {
     display: flex;
     background-color: #1F2937;
