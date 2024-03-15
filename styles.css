@@ -134,3 +134,12 @@
 .call-text {
     color:#E5E7EB
 }
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0px;
+}
