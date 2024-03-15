@@ -90,3 +90,28 @@
     text-align: center;
     padding-top: 10px;
 }
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    align-items: center;
+}
+
+.quote-text {
+    display: flex;
+    flex-direction: column;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+    width: 500px;
+    padding-top: 100px;
+}
+
+.quote-author {
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 75px;
+    margin-left: auto;
+}
